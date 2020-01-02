@@ -12,6 +12,5 @@ public class BirdAdapter implements Bird {
 	public void tweet() {
 		toyBird.makeRoboticSound();
 	}
-	
-	
+
 }
