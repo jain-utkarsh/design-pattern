@@ -1,6 +1,6 @@
 package com.design.pattern.singleton;
 
-public class SingletonDesignMainPattern {
+public class SingletonDesignPatternMain {
 
 	public static void main(String[] args) {
 		
